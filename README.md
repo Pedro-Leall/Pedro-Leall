@@ -1,5 +1,8 @@
-### Hi there 👋
+### Bom dia, Boa tarde e Boa noite, é um prazer lhe ter aqui 👋
 
+### Github criado com o intuito de compartilhar projetos feitos durante e após o Ensino médio tecnico na Etec Bartolomeu Bueno da Silva. :grin:
+
+Prazer sou o Pedro Leal e esse é meu Github, sou um estudante de Informatica para a internet no instituto Etec Bartolomeu Bueno da Silva 
 <!--
 **Pedro-Leall/Pedro-Leall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
