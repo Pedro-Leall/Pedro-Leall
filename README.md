@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Larissa Kich
+# 👩🏻‍💻 Pedro Leal
 
 **`Desenvolvedora FullStack`**
 
