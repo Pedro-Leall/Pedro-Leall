@@ -11,7 +11,7 @@ Me chamo Pedro Leal, tenho 18 anos e sou natural de Osasco-SP. Concluí o ensino
             src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/Pedro-Leall?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
