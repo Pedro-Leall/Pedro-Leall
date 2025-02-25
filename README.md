@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Pedro Leal, tenho 18 anos e sou natural de Osasco-SP. Concluí o ensino médio técnico em informática para Internet. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC - Santana de Parnaiba. Sou apaixonado por tecnologia e gostaria de compartilhar com você que está lendo meus estudos e conhecimentos.
+Me chamo Pedro Leal, tenho 18 anos e sou natural de Osasco-SP. Concluí o ensino médio técnico em informática para Internet na Etec Bartolomeu Bueno da Silva. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC - Santana de Parnaiba. Sou apaixonado por tecnologia e gostaria de compartilhar com você que está lendo meus estudos e conhecimentos.
 
 <p align="left">
         <img 
