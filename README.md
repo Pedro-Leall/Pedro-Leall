@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Pedro Leal
+# 👨‍💻 Pedro Leal
 
 **`Desenvolvedor FullStack`**
 
