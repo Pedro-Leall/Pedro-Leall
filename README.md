@@ -56,6 +56,15 @@ Me chamo Pedro Leal, tenho 18 anos e sou natural de Osasco-SP. Concluí o ensino
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
+<img 
+    align="left" 
+    alt="C" 
+    title="C"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+          
+/>
 <br/>
 <br/>
 
@@ -76,5 +85,6 @@ Me chamo Pedro Leal, tenho 18 anos e sou natural de Osasco-SP. Concluí o ensino
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Leall&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+  
 
 </p>
