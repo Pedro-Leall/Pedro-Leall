@@ -6,15 +6,8 @@ Me chamo Pedro Leal, tenho 18 anos e sou natural de Osasco-SP. Concluí o ensino
 
 <p align="left">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Pedro-Leall?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Pedro-Leall?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
+            alt="LINKEDIN" 
+            title="Me siga no Linkedin" 
             src="https://custom-icon-badges.demolab.com/github/followers/Pedro-Leall?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
