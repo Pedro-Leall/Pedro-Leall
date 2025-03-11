@@ -4,15 +4,6 @@
 
 Me chamo Pedro Leal, tenho 18 anos e sou natural de Osasco-SP. Concluí o ensino médio técnico em informática para Internet na Etec Bartolomeu Bueno da Silva. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC - Santana de Parnaiba. Sou apaixonado por tecnologia e gostaria de compartilhar com você que está lendo meus estudos e conhecimentos.
 
-<p align="left">
-        <img 
-            alt="LINKEDIN" 
-            title="Me siga no Linkedin" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Pedro-Leall?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
